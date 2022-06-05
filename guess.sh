@@ -27,6 +27,5 @@ do
     fi
     VALID=1
 done
-echo "The computer's number was $COMPUTER and you guessed [$NUMBER],
-which was correct! You won!"
+echo "The computer's number was $COMPUTER and you guessed [$NUMBER], which was correct! You won!"
 exit 0
