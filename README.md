@@ -2,7 +2,7 @@
 Learning Bash scripting using Fedora OS.
 ## Technology Stack
 + Fedora OS
-+ Bash terminal
++ Bash scripting
 + Atom 
 + Git 
 
